@@ -67,7 +67,7 @@ func (s *SmartContract) initLedger(APIstub shim.ChaincodeStubInterface) sc.Respo
 		robot{robotCODE: "E4A12RASDFAS4G", Owner: "육군", Model: "대한민국RT", Make: "국방과학연구소", Color: "Blue"},
 		robot{robotCODE: "BA5IJ32432FGSD", Owner: "육군", Model: "HWD001", Make: "한화디펜스", Color: "Red"},
 		robot{robotCODE: "11CZJ23R13TVC8", Owner: "현대", Model: "현대SA1", Make: "현대", Color: "Yellow"},
-		robot{robotCODE: "3VK5CBV967BA23", Owner: "Subin", Model: "Hwangbenhavn", Make: "금손콩", Color: "Freen"},
+		robot{robotCODE: "3VK5CBV967BA23", Owner: "Subin", Model: "Hwangbenhavn", Make: "금손콩", Color: "Green"},
 		robot{robotCODE: "87234HOF984892", Owner: "Goldwaterbean", Model: "마징가Z", Make: "황황황황황", Color: "Black"},
 		robot{robotCODE: "5M8409544CN80M", Owner: "Gosuohwan", Model: "또봇", Make: "수수", Color: "Purple"},
 		robot{robotCODE: "98MX14GAS2432G", Owner: "엔티렉스", Model: "엔티렉스R31", Make: "엔티렉스", Color: "Lime"},
